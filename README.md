@@ -1,5 +1,5 @@
-<h1 align="center">Your Name</h1>
-<p align="center" style="color: orange;"><strong>Your Role or Description</strong></p>
+<h1 align="center">Kartavya Dikshit</h1>
+<p align="center" style="color: orange;"><strong>Computer Science Engineer</strong></p>
 
 <img align="right" alt="Coding" width="400" src="URL_TO_YOUR_PROFILE_IMAGE">
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<p>📧Email: your.email@example.com</p>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<p>📧Email: kartavyaniraj.dikshit2021@vitstudent.ac.in</p>
+<a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kartavya-dikshit/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 <!-- Add other social media links as needed -->
 </p>
 
