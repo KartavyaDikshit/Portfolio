@@ -6,16 +6,16 @@
 - 🔭 I’m currently working on **Your Current Projects or Interests.**
 
 - 🌱 I’m currently learning
-1) Your Learning Focus 1
-2) Your Learning Focus 2
-3) Your Learning Focus 3
+    1) Your Learning Focus 1
+    2) Your Learning Focus 2
+    3) Your Learning Focus 3
 
 - 🤔 Ask me about **Topics You're Knowledgeable In.**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <p>📧Email: kartavyaniraj.dikshit2021@vitstudent.ac.in</p>
-<a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/kartavya-dikshit/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartavya-dikshit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartavya Dikshit's LinkedIn Profile" height="30" width="40" /></a>
 <!-- Add other social media links as needed -->
 </p>
 
