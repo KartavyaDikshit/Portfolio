@@ -3,14 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="URL_TO_YOUR_PROFILE_IMAGE">
 
-- 🔭 I’m currently working on **Your Current Projects or Interests.**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning
-    1) Your Learning Focus 1
-    2) Your Learning Focus 2
-    3) Your Learning Focus 3
-
-- 🤔 Ask me about **Topics You're Knowledgeable In.**
+    1) WorkFlow Engine Automation
+    2) WebApplications
+    
+    
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
