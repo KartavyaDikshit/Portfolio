@@ -20,8 +20,39 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-<!-- Add icons and links to your favorite languages and tools -->
+    <!-- Add icons and links to your favorite languages and tools -->
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/react-logo.png" alt="React" width="40" height="40" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/nodejs-logo.png" alt="Node.js" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/javascript-logo.png" alt="JavaScript" width="40" height="40" />
+    </a>
+    <a href="YOUR_SQL_DOCUMENTATION_LINK" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/sql-logo.png" alt="SQL" width="40" height="40" />
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/csharp-logo.png" alt="C#" width="40" height="40" />
+    </a>
+    <a href="YOUR_API_DOCUMENTATION_LINK" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/api-logo.png" alt="API" width="40" height="40" />
+    </a>
+    <a href="YOUR_C_CPLUSPLUS_DOCUMENTATION_LINK" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/c-logo.png" alt="C/C++" width="40" height="40" />
+    </a>
+    <a href="YOUR_DSA_DOCUMENTATION_LINK" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/dsa-logo.png" alt="DSA" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/python-logo.png" alt="Python" width="40" height="40" />
+    </a>
+    <a href="YOUR_ML_DOCUMENTATION_LINK" target="_blank" rel="noreferrer">
+        <img src="https://www.example.com/ml-logo.png" alt="Machine Learning" width="40" height="40" />
+    </a>
 </p>
+
 
 <h3 align="left">📈 My GitHub Stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="your-username" /></p>
